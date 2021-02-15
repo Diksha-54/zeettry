@@ -1,0 +1,1 @@
+web : gunicorn zeetdjango.wsgi --log-file -
